@@ -1,0 +1,2 @@
+# snykint
+Snyk integration
